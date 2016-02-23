@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/The 4 Rooms.unity
+  isLoaded: 1
+  isActive: 1
